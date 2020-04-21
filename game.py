@@ -11,5 +11,3 @@ if __name__ == '__main__':
     )
     drones = [TsigelnikovDrone() for _ in range(5)]
     scene.go()
-
-# Второй этап: зачёт!
